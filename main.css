@@ -18,6 +18,12 @@ body {
       height: 50%;
   
   }
+
+.col-sm-4 {
+      
+       align-items: center;
+}
+
   .person:hover {
       border-color: #f1f1f1;
   }
