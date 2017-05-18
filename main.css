@@ -28,7 +28,7 @@ body {
       margin: auto;
   }
   .carousel-caption h3 {
-      color: #fff !important;
+      color: #fff !important; 
   }
   @media (max-width: 600px) {
     .carousel-caption {
