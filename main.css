@@ -9,8 +9,12 @@ body {
       color: #111;
   }
   .container {
-      padding: 80px 120px;
-      align-content: center;
+        
+    padding-right: 30px;
+    
+    padding-left: 80px;
+      // padding: 80px 120px;
+     // align-content: center;
   }
   .person {
       border: 10px solid transparent;
