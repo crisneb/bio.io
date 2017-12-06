@@ -8,6 +8,15 @@ body {
       font-size: 20px;
       color: #111;
   }
+ .modal-header, .close {
+      background-color: #5cb85c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
   .container {
         
     padding-right: 30px;
