@@ -19,7 +19,9 @@ body {
 }
 
 .lead {
+  color: white;
   text-align: center;
+  
 }
  .container {
   margin: 0 auto;
