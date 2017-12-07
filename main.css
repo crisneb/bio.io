@@ -4,10 +4,10 @@ body {
   }
 
 .row-alt {
-  background: #9cd0ed;
-  background: -webkit-linear-gradient(to right, #9cd0ed, #9ab0bc);
-  background:    -moz-linear-gradient(to right, #9cd0ed, #9ab0bc);
-  background:         linear-gradient(to right, #9cd0ed, #9ab0bc);
+  background: #0085CC;
+  background: -webkit-linear-gradient(to right, #0085CC, #9ab0bc);
+  background:    -moz-linear-gradient(to right, #0085CC, #9ab0bc);
+  background:         linear-gradient(to left, #0085CC, #9ab0bc);
   padding: 44px 0 22px 0;
      
 }
