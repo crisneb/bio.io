@@ -2,6 +2,12 @@ body {
       font: 400 15px/1.8 Lato, sans-serif;
       color: #777;
   }
+.education{
+      
+      font-family: 'Tangerine', serif;
+      font-size: 48px;
+
+}
 
 .row-alt {
   background: #0085CC;
