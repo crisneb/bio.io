@@ -4,7 +4,6 @@ body {
   }
 
 .row-alt {
-  min-width: 960px;
   background: #0085CC;
  /*  background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
  background:    -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
